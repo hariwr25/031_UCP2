@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Exercise2</string>
+    <string name="Dsn1">Haris Setiawan</string>
+    <string name="Dsn2">Dwi Djoko P</string>
+    <string name="Dsn3">Aprilia Kurnianti</string>
+    <string name="back_button">Back</string>
+    <string name="confirm">Confirm</string>
+    <string name="next">Next</string>
+    <string name="submit">submit</string>
+</resources>
